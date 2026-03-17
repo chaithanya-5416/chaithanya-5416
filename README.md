@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Chaithanya</h1>
+<h3 align="center">BCA Student | UI-UX Designer | Debugger| </h3>
 
 <!--
 **chaithanya-5416/chaithanya-5416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
