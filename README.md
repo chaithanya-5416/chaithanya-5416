@@ -25,18 +25,43 @@
 - 🔥 Always exploring new technologies  
 
 ---
+## 🚀 Tech Universe
 
-## 💻 Tech Stack
-
-### ⚡ Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,cpp" />
+
+<!-- Programming -->
+<img src="https://skillicons.dev/icons?i=c" width="50"/><br>C  
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=java" width="50"/><br>Java  
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=python" width="50"/><br>Python  
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=cpp" width="50"/><br>C++  
+
+<br><br>
+
+<!-- Web -->
+<img src="https://skillicons.dev/icons?i=html" width="50"/><br>HTML  
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" width="50"/><br>CSS  
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js" width="50"/><br>JavaScript  
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>Node.js  
+
+<br><br>
+
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=figma" width="50"/><br>Figma  
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>VS Code  
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git" width="50"/><br>Git  
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" width="50"/><br>GitHub  
+
 </p>
 
-### 🌐 Web Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs" />
-</p>
 
 ### 🎨 Tools & Design
 <p align="center">
