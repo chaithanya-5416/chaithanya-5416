@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Chaithanya P</h1>
+<h1 align="center">⚡ Hey 👋, I'm Chaithanya P</h1>
 
 <h3 align="center">
 🚀 BCA Student | 🎨 UI-UX Designer | 🐞 Debugging Enthusiast
@@ -11,61 +11,82 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&lines=Future+Full+Stack+Developer🚀;UI%2FUX+Designer🎨;Debugging+is+my+superpower🐞;Always+learning+new+tech💡">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=700&lines=⚡+Booting+Chaithanya+OS...;🧠+UI%2FUX+Designer;💻+Future+Full+Stack+Developer;🐞+Debugging+Specialist;🚀+Always+Learning+New+Tech">
 </p>
 
 ---
 
-## 🚀 About Me
-
-- 🎓 Pursuing BCA  
-- 💻 Skilled in Web Development & Programming  
-- 🎨 Love designing clean and user-friendly UI/UX  
-- 🐞 Debugging is where I shine  
-- 🔥 Always exploring new technologies  
-
----
-## 🚀 Tech Universe
+## 🧬 CHAITHANYA OS
 
 <p align="center">
-
-<!-- Programming -->
-<img src="https://skillicons.dev/icons?i=c" width="50"/><br>C  
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=java" width="50"/><br>Java  
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=python" width="50"/><br>Python  
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=cpp" width="50"/><br>C++  
-
-<br><br>
-
-<!-- Web -->
-<img src="https://skillicons.dev/icons?i=html" width="50"/><br>HTML  
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css" width="50"/><br>CSS  
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=js" width="50"/><br>JavaScript  
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>Node.js  
-
-<br><br>
-
-<!-- Tools -->
-<img src="https://skillicons.dev/icons?i=figma" width="50"/><br>Figma  
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>VS Code  
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=git" width="50"/><br>Git  
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" width="50"/><br>GitHub  
-
+⚡ Initializing Developer Profile...
 </p>
 
-
-### 🎨 Tools & Design
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,vscode,git,github" />
+🧠 Loading Skills... █████████░░ 90%  
+🌐 Connecting to Web World... ██████████ 100%  
+🐞 Debug Mode... ACTIVE  
+🚀 Growth Status... EVOLVING  
+</p>
+
+<p align="center">
+💻 System Identity: <b>UI/UX Designer • Developer • Problem Solver</b>
+</p>
+
+---
+
+## 🧠 Tech Command Center
+
+<p align="center">
+⚡ <b>Programming Core</b>
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c" width="55"/><br><sub>C</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=java" width="55"/><br><sub>Java</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=python" width="55"/><br><sub>Python</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=cpp" width="55"/><br><sub>C++</sub>
+</p>
+
+---
+
+<p align="center">
+🌐 <b>Web Engine</b>
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html" width="55"/><br><sub>HTML</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" width="55"/><br><sub>CSS</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js" width="55"/><br><sub>JavaScript</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br><sub>Node.js</sub>
+</p>
+
+---
+
+<p align="center">
+🛠️ <b>Tools & Interface</b>
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=figma" width="55"/><br><sub>Figma</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/><br><sub>VS Code</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git" width="55"/><br><sub>Git</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" width="55"/><br><sub>GitHub</sub>
+</p>
+
+---
+
+<p align="center">
+🚀 <i>System Status: Learning... Upgrading... Evolving...</i>
 </p>
 
 ---
@@ -82,10 +103,26 @@
 
 ---
 
-## 📌 Featured Projects
+## 🏆 Achievements
 
 <p align="center">
-✨ Coming Soon — Awesome projects are on the way! 🚀
+  <img src="https://github-profile-trophy.vercel.app/?username=chaithanya-5416&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+🔹 Project 1 – Coming Soon  
+🔹 Project 2 – Coming Soon  
+🔹 Project 3 – Coming Soon  
+</p>
+
+---
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chaithanya-5416&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -106,12 +143,13 @@
 
 ---
 
-## 🌟 Extra Touch
-
 <p align="center">
-  ⭐ From <b>Chaithanya P</b> — Building, Learning & Growing Every Day 🚀
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </p>
 
+<p align="center">
+⚡ Powered by <b>Chaithanya OS</b> | Build • Debug • Repeat 🚀
+</p>
 <!--
 **chaithanya-5416/chaithanya-5416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
