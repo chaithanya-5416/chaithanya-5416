@@ -38,49 +38,46 @@
 ## 🧠 Tech Command Center
 
 <p align="center">
-⚡ <b>Programming Core</b>
-</p>
+⚡ <b>Programming Core</b><br><br>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c" width="55"/><br><sub>C</sub>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=java" width="55"/><br><sub>Java</sub>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=python" width="55"/><br><sub>Python</sub>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=cpp" width="55"/><br><sub>C++</sub>
-</p>
+<img src="https://skillicons.dev/icons?i=c" width="60"/> 
+<img src="https://skillicons.dev/icons?i=java" width="60"/> 
+<img src="https://skillicons.dev/icons?i=python" width="60"/> 
+<img src="https://skillicons.dev/icons?i=cpp" width="60"/>
 
----
+<br>
 
-<p align="center">
-🌐 <b>Web Engine</b>
-</p>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html" width="55"/><br><sub>HTML</sub>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css" width="55"/><br><sub>CSS</sub>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=js" width="55"/><br><sub>JavaScript</sub>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br><sub>Node.js</sub>
+<sub>C &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Java &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C++</sub>
 </p>
 
 ---
 
 <p align="center">
-🛠️ <b>Tools & Interface</b>
+🌐 <b>Web Engine</b><br><br>
+
+<img src="https://skillicons.dev/icons?i=html" width="60"/> 
+<img src="https://skillicons.dev/icons?i=css" width="60"/> 
+<img src="https://skillicons.dev/icons?i=js" width="60"/> 
+<img src="https://skillicons.dev/icons?i=nodejs" width="60"/>
+
+<br>
+
+<sub>HTML &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CSS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JavaScript &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Node.js</sub>
 </p>
 
+---
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=figma" width="55"/><br><sub>Figma</sub>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode" width="55"/><br><sub>VS Code</sub>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=git" width="55"/><br><sub>Git</sub>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" width="55"/><br><sub>GitHub</sub>
+🛠️ <b>Tools & Interface</b><br><br>
+
+<img src="https://skillicons.dev/icons?i=figma" width="60"/> 
+<img src="https://skillicons.dev/icons?i=vscode" width="60"/> 
+<img src="https://skillicons.dev/icons?i=git" width="60"/> 
+<img src="https://skillicons.dev/icons?i=github" width="60"/>
+
+<br>
+
+<sub>Figma &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; VS Code &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Git &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub</sub>
 </p>
 
 ---
@@ -150,6 +147,7 @@
 <p align="center">
 ⚡ Powered by <b>Chaithanya OS</b> | Build • Debug • Repeat 🚀
 </p>
+
 <!--
 **chaithanya-5416/chaithanya-5416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
