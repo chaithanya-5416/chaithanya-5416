@@ -1,69 +1,92 @@
 <h1 align="center">Hey 👋, I'm Chaithanya P</h1>
 
 <h3 align="center">
-BCA Student | UI-UX Designer | Debugger 🚀
+🚀 BCA Student | 🎨 UI-UX Designer | 🐞 Debugging Enthusiast
 </h3>
 
 <p align="center">
-💡 Passionate about Web Development, Debugging & learning new technologies.
+💡 Passionate about Web Development, Debugging & building creative digital experiences.
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&lines=Future+Full+Stack+Developer🚀;UI%2FUX+Designer🎨;Debugging+Enthusiast🐞;Always+Learning💡">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&lines=Future+Full+Stack+Developer🚀;UI%2FUX+Designer🎨;Debugging+is+my+superpower🐞;Always+learning+new+tech💡">
 </p>
 
 ---
 
-## 💻 Skills
+## 🚀 About Me
 
+- 🎓 Pursuing BCA  
+- 💻 Skilled in Web Development & Programming  
+- 🎨 Love designing clean and user-friendly UI/UX  
+- 🐞 Debugging is where I shine  
+- 🔥 Always exploring new technologies  
+
+---
+
+## 💻 Tech Stack
+
+### ⚡ Programming Languages
 <p align="center">
-  
-<img src="https://skillicons.dev/icons?i=c" /> C &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=java" /> Java &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=python" /> Python &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=cpp" /> C++ &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=c,java,python,cpp" />
+</p>
 
-<br><br>
+### 🌐 Web Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=html" /> HTML &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css" /> CSS &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=js" /> JavaScript &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=nodejs" /> Node.js &nbsp;&nbsp;
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=figma" /> Figma &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode" /> VS Code &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=git" /> Git &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" /> GitHub
-
+### 🎨 Tools & Design
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,vscode,git,github" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaithanya-5416&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chaithanya-5416&show_icons=true&theme=tokyonight&border_radius=10" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=chaithanya-5416&theme=tokyonight" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chaithanya-5416&label=Profile%20views&color=blueviolet&style=flat" />
+  <img src="https://streak-stats.demolab.com/?user=chaithanya-5416&theme=tokyonight&border_radius=10" />
 </p>
 
 ---
 
+## 📌 Featured Projects
+
 <p align="center">
-✨ Building • Learning • Debugging 🚀
+✨ Coming Soon — Awesome projects are on the way! 🚀
 </p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chaithanya-5416&label=Profile%20views&color=blueviolet&style=for-the-badge" />
+</p>
+
+---
+
+## 🎯 Fun Quote
+
+<p align="center">
+"First, solve the problem. Then, write the code." 💡
+</p>
+
+---
+
+## 🌟 Extra Touch
+
+<p align="center">
+  ⭐ From <b>Chaithanya P</b> — Building, Learning & Growing Every Day 🚀
+</p>
+
 <!--
 **chaithanya-5416/chaithanya-5416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
