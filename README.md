@@ -1,3 +1,10 @@
+<div align="center">
+
+<img src="./assets/banner.png" width="100%" alt="Chaithanya's AI developer banner" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&width=650&lines=AI+Engineer+in+the+Making;Creative+Builder+%7C+Future+Founder;Exploring+AI+Agents+%26+GenAI;Building+Ideas+Into+Reality" alt="Animated introduction" />
+
+</div>
  <div align="center">
 
 # ✦ CHAITHANYA P ✦
