@@ -67,6 +67,15 @@ I'm a BCA student exploring the intersection of **Artificial Intelligence, creat
 
 <div align="center">
 
+<div align="center">
+
+### 🐍 My Contribution Journey
+
+<img src="https://raw.githubusercontent.com/chaithanya-5416/chaithanya-5416/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+
+</div>
+
+
 ### 🌱 Always learning. Always creating.
 
 *The best ideas begin with curiosity.* ✨
