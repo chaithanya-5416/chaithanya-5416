@@ -1,26 +1,31 @@
-name: Generate Snake
+
+name: Generate Contribution Snake
 
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v3
-
-      - name: Generate Snake Animation
-        uses: Platane/snk@v3
+      - name: Generate snake animation
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: chaithanya-5416
           outputs: |
             dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push Snake Animation
-        uses: crazy-max/ghaction-github-pages@v3
+      - name: Publish animation
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
