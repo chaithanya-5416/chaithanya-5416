@@ -1,61 +1,69 @@
-<div align="center">
+ <div align="center">
 
 # ✦ CHAITHANYA P ✦
 
-### AI Engineer in the Making · Creative Builder · Future Founder
+### AI Engineer • Creative Builder • Future Founder
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Exploring+the+world+of+AI+%F0%9F%A4%96;Building+ideas+into+reality+%F0%9F%9A%80;Experimenting.+Learning.+Creating.;The+future+is+something+we+build." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&width=600&lines=Exploring+Artificial+Intelligence;Building+AI-powered+experiences;Learning+by+creating;Turning+ideas+into+reality" />
 
-<br/>
+**Curious mind. Creative soul. Builder of intelligent things.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chaithanya-5416)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/chaithanya-5416)
 
 </div>
 
 ---
 
-## 🧬 A little about me
+## 🧠 Beyond the Code
 
-```python
-class Chaithanya:
-    role = "Aspiring AI Engineer"
-    interests = ["Artificial Intelligence", "AI Agents", "Creative Tech"]
-    exploring = ["Generative AI", "Intelligent Applications"]
-    mission = "Build technology that solves real problems"
+I'm a BCA student exploring the intersection of **Artificial Intelligence, creativity, and real-world problem solving.**
 
-    def mindset(self):
-        return "Stay curious. Keep building. Think differently."
+- 🤖 Exploring AI, Generative AI and intelligent agents
+- 💡 Turning unusual ideas into practical applications
+- 🏥 Interested in AI for healthcare and education
+- 🚀 Building projects, experimenting and learning every day
+- 🎨 Bringing creativity into technology
 
-## Step 4 — Let's make it even more unique
+> I don't want to follow the future of AI — I want to help build it.
 
-Choose what you want to add next. We can build the README in small steps so you understand and can customize the code yourself.
+## ⚡ My Current Universe
 
-{@body const [style,setStyle] = DIL.useState("neon")}
-{@body const [features,setFeatures] = DIL.useState(["banner","projects","stats"])}
-{@body const [detail,setDetail] = DIL.useState("balanced")}
-<box border radius="xl" padding={4} gap={4}>
-  <text weight="medium">1. Pick your visual style</text>
-  <radio-group value={style} onChange={setStyle} direction="col">
-    <radio value="neon">Purple + cyan neon AI aesthetic</radio>
-    <radio value="minimal">Minimal black-and-white professional</radio>
-    <radio value="pastel">Pastel lavender, soft and creative</radio>
-    <radio value="cyber">Cyberpunk, glitch effects and terminal style</radio>
-    <radio value="colorful">Colorful, animated, and full of variety</radio>
-  </radio-group>
-  <divider color="subtle"/>
-  <text weight="medium">2. Which elements should we add?</text>
-  {#each [{id:"banner",label:"Custom animated or illustrated banner"},{id:"projects",label:"Beautiful project cards with live links"},{id:"stats",label:"GitHub stats, streaks and language charts"},{id:"snake",label:"Contribution snake animation"},{id:"timeline",label:"Learning journey and milestones"},{id:"fun",label:"Fun facts, dance and creative personality"}] as item}
-    <checkbox key={item.id} checked={features.includes(item.id)} onChange={v=>setFeatures(old=>v?[...old,item.id]:old.filter(x=>x!==item.id))} lineThrough={false}>{item.label}</checkbox>
-  {/each}
-  <divider color="subtle"/>
-  <text weight="medium">3. How elaborate?</text>
-  <radio-group value={detail} onChange={setDetail} direction="col">
-    <radio value="simple">Clean and professional</radio>
-    <radio value="balanced">Balanced — my recommendation</radio>
-    <radio value="ultimate">Ultimate — lots of creative details</radio>
-  </radio-group>
-  <button block onClick={() => GenUI.issueNewTurn("Help me build my GitHub profile README step by step. GitHub username: chaithanya-5416 (please confirm if it should be changed). Visual style: "+({"neon":"purple and cyan neon AI aesthetic","minimal":"minimal black-and-white professional","pastel":"pastel lavender creative","cyber":"cyberpunk glitch terminal","colorful":"colorful animated variety"}[style])+". Include: "+features.map(x=>({"banner":"custom banner","projects":"project cards","stats":"GitHub statistics","snake":"contribution snake animation","timeline":"learning journey and milestones","fun":"dance and creative personality"}[x])).join(", ")+". Complexity: "+detail+". Give me complete copy-paste code and beginner-friendly setup instructions, using accurate links and only technologies I have actually used.")}>Build my custom GitHub intro</button>
-</box>
+| Project | Mission |
+|---|---|
+| 🛡️ SmartCare AI | Exploring AI-powered elderly safety |
+| 🔄 Skill Swapper | Helping students exchange skills |
+| 🎲 Random Name Picker | A simple interactive web app |
+| 🩺 AI Health Report | Making health information easier to understand |
 
-**One important thing:** the README above assumes your GitHub username is `chaithanya-5416`. If that is not your actual username, replace it in the profile links and stats URLs before publishing. Also, the animations and statistics rely on external services, so they may occasionally load slowly or be unavailable.
+## 🛠️ Technologies I'm Exploring
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+## 📊 My GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=chaithanya-5416&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaithanya-5416&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌱 Always learning. Always creating.
+
+*The best ideas begin with curiosity.* ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" width="100%" />
+
+</div>
